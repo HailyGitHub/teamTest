@@ -1,1 +1,3 @@
 index
+admin login.do
+admin logout.do
